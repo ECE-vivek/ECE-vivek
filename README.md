@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ECE-vivek
 - 👀 I’m interested in Electronics
-- 🌱 I’m currently learning B.tech 
-- 💞️ I’m looking to collaborate on Own Voice model ceration.
+- 🌱 I’m currently learning Matlab 
+- 💞️ I’m looking to collaborate on Own Voice model Project.
 - 📫 How to reach me vivekkumarviky1999@gmail.com
 
 
